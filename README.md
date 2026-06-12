@@ -20,18 +20,32 @@ The primary goal of this project is to:
 
 ## 🔄 Project Workflow
 1.Data Collection – Gather customer demographic and transaction data.
+
 2.Data Cleaning – Handle missing values, duplicates, and data inconsistencies using Power Query.
+
 3.Data Modeling – Create relationships and prepare data for analysis.
+
 4.Customer Analysis – Analyze spending patterns, purchase frequency, and customer demographics.
+
 5.Customer Segmentation – Classify customers into High, Medium, and Low-value groups based on behavior and spending.
+
 6.Dashboard Development – Build interactive visualizations and KPI dashboards.
+
+
 7.Insight Generation – Identify key customer trends and business opportunities.
+
 8.Recommendations – Provide data-driven strategies for customer engagement and retention.
+
+
 ## 🎯 Key Outcomes
 Identified customer segments based on purchasing behavior.
+
 Analyzed customer preferences and spending habits.
+
 Developed interactive Power BI dashboards.
+
 Generated actionable insights for targeted marketing and business growth.
+
 ## 🛠️ Tools Used
 
 Power BI | Power Query | DAX | Data Visualization | Customer Analytics
