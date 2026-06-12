@@ -9,9 +9,13 @@ Customer Segmentation is the process of dividing customers into distinct groups 
 ## 🎯 Project Objective
 The primary goal of this project is to:
 1.Understand customer behavior and purchasing patterns.
+
 2.Identify high-value and low-value customer groups.
+
 3.Analyze demographic factors influencing customer spending.
+
 4.Support data-driven marketing and business decisions.
+
 5.Build interactive dashboards for customer analytics.
 
 ## 🔄 Project Workflow
